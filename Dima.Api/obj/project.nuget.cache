@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EtDCNiPL2/E=",
+  "dgSpecHash": "cnLtxi+K6MU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\coimb\\Dima\\Dima.Api\\Dima.Api.csproj",
+  "projectFilePath": "c:\\Users\\coimb\\Dima\\Dima.Api\\Dima.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\coimb\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\coimb\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

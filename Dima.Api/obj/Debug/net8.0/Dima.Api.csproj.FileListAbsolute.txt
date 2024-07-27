@@ -137,3 +137,4 @@ C:\Users\coimb\Dima\Dima.Api\obj\Debug\net8.0\refint\Dima.Api.dll
 C:\Users\coimb\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.pdb
 C:\Users\coimb\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.genruntimeconfig.cache
 C:\Users\coimb\Dima\Dima.Api\obj\Debug\net8.0\ref\Dima.Api.dll
+c:\Users\coimb\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.sourcelink.json

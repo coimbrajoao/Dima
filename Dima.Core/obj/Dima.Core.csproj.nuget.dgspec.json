@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coimb\\Dima\\Dima.Core\\Dima.Core.csproj": {}
+    "c:\\Users\\coimb\\Dima\\Dima.Core\\Dima.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coimb\\Dima\\Dima.Core\\Dima.Core.csproj": {
+    "c:\\Users\\coimb\\Dima\\Dima.Core\\Dima.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coimb\\Dima\\Dima.Core\\Dima.Core.csproj",
+        "projectUniqueName": "c:\\Users\\coimb\\Dima\\Dima.Core\\Dima.Core.csproj",
         "projectName": "Dima.Core",
-        "projectPath": "C:\\Users\\coimb\\Dima\\Dima.Core\\Dima.Core.csproj",
+        "projectPath": "c:\\Users\\coimb\\Dima\\Dima.Core\\Dima.Core.csproj",
         "packagesPath": "C:\\Users\\coimb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coimb\\Dima\\Dima.Core\\obj\\",
+        "outputPath": "c:\\Users\\coimb\\Dima\\Dima.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
